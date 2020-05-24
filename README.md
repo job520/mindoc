@@ -24,6 +24,12 @@ MinDoc 的前身是 SmartWiki 文档系统。SmartWiki 是基于 PHP 框架 lara
 如果有Golang开发经验，建议通过编译安装，在此之前，您需要先安装Golang官方包管理工具，详见[Install dep](https://golang.github.io/dep/docs/installation.html)。
 
 ```bash
+1. 安装 dep
+
+2. 安装 sqlite3
+
+3. 执行命令：
+
 git clone https://github.com/job520/mindoc.git
 
 dep ensure
